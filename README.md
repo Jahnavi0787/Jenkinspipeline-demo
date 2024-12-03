@@ -1,1 +1,4 @@
 # Jenkinspipeline-demo
+Jahnavi
+CSE
+TRINITY COLLEGE OF ENGINEERING & TECHNOLOGY 
